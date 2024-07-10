@@ -6,7 +6,7 @@ This project implements a typeahead for U.S. states using HTML, CSS, JavaScript 
 
 1. Make sure you have Node.js installed on your system.
 2. Clone this repository:
-   git clone https://github.com/your-username/us-states-typeahead.git
+   git clone https://github.com/gray-learn/us-typeahead.git
    cd us-states-typeahead
 3. Install the required dependencies:
    npm install
