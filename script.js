@@ -11,7 +11,7 @@ $(document).ready(function () {
     }
 
     $.ajax({
-      url: "http://localhost:3300/states",
+      url: "http://localhost:3000/states",
       data: { q: query },
       success: function (states) {
         $list.empty();
